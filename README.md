@@ -1,6 +1,6 @@
 # RAG
 
-Restaurant Chatbot using Retrieval-Augmented Generation (RAG)
+Chatbot using Retrieval-Augmented Generation (RAG)
 This project implements a RAG-based chatbot for answering restaurant-related queries using Llama-2-7B. It combines retrieval-based search with LLM-generated responses to provide accurate and context-aware answers.
 
 Features
